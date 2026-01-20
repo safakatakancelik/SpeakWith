@@ -17,6 +17,17 @@ Audio → Transcription → LLM Suggestions → User Selection → Loop
 ## Vision
 
 ```
+Welcome to SpeakWith
+Loading user profile... ✓
+Initializing Whisper... ✓
+
+Select conversation mode:
+[1] Friendly conversation
+[2] Shopping conversation
+> 1
+
+Starting friendly conversation mode.
+Listening... (Press Ctrl+C to exit)
 ╔══════════════════════════════════════════════════════════════════╗
 ║  SPEAKWITH - Friendly Mode                          [00:01:23]   ║
 ╠══════════════════════════════════════════════════════════════════╣
