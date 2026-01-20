@@ -56,7 +56,7 @@ Audio → Transcription → LLM Suggestions → User Selection → Loop
 
 ## Status
 
-Early development. See [STATUS.md](STATUS.md) for implementation progress.
+Early development. Just planned and started it, didn't implement or reviewed anything yet.
 
 ## License
 
